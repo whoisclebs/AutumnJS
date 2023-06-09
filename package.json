@@ -22,7 +22,8 @@
     "prepare": "husky install && chmod ug+x .husky/*",
     "commit": "git-cz",
     "commit:lint": "commitlint --edit",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "test": "lerna run test"
   },
   "config": {
     "commitizen": {
