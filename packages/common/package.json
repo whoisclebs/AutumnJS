@@ -1,0 +1,19 @@
+{
+  "name": "@autumn/common",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LedThinking/Autumnjs.git"
+  },
+  "author": "whoisclebs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LedThinking/Autumnjs/issues"
+  },
+  "homepage": "https://github.com/LedThinking/Autumnjs/tree/main/packages/common#readme"
+}
