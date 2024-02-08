@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LedThinking/Autumnjs.git"
+    "url": "git+https://github.com/whoisclebs/Autumnjs.git"
   },
   "author": "whoisclebs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LedThinking/Autumnjs/issues"
+    "url": "https://github.com/whoisclebs/Autumnjs/issues"
   },
   "homepage": "https://github.com/LedThinking/Autumnjs/tree/main/packages/core#readme"
 }
